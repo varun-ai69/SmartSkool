@@ -1,2 +1,2 @@
 # ADMIN-
-ADMIN interface for school monitoring system 
+ADMIN interface for school monitoring system
